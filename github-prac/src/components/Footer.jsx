@@ -3,7 +3,15 @@ import React from 'react'
 const Footer = () => {
   return (
     <div>
-      Footer
+      <nav>
+        <ol>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+          
+        </ol>
+      </nav>
     </div>
   )
 }
